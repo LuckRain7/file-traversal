@@ -1,0 +1,23 @@
+{
+  "name": "file-traversal",
+  "version": "1.0.0",
+  "description": "文件遍历工具",
+  "main": "main.js",
+  "bin": {
+    "gox": "./bin/filetree.js"
+  },
+  "scripts": {
+    "dev": "./bin/filetree.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckRain7/file-traversal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuckRain7/file-traversal/issues"
+  },
+  "homepage": "https://github.com/LuckRain7/file-traversal#readme"
+}
